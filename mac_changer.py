@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Quick Python script for changing the MAC Address on a *nix host, uses native ifconfig command. Similar to macchanger on Kali
+# Python3 script for changing the MAC Address on a *nix host, uses native ifconfig command. Similar to macchanger on Kali
 # Reference https://dnschecker.org/mac-lookup.php for more information on MAC addresses and to search for MAC addresses that may be whitelisted in a network/environment
 # Requires root/admin privileges on the device
 
